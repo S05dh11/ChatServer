@@ -1,0 +1,15 @@
+# Build
+build/
+*.o
+*.a
+
+# Runtime
+*.db
+*.conf
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
